@@ -1,5 +1,6 @@
 # 100-Days-of-Data-Science:  Day 1: Titanic dataset EDA.
 This repository contains my Data Science analysis as part of my 100-day journey.  Day 1: Titanic dataset EDA.
+
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
 This analysis explores survival rates based on gender, class, and age.
