@@ -16,6 +16,8 @@ This analysis explores survival rates based on gender, class, and age.
 - Pandas
 - Matplotlib
 - Seaborn
+
+
 ![image](https://github.com/user-attachments/assets/8e0017c0-c1a9-4a04-932d-74587fe3a136)
 
 ![image](https://github.com/user-attachments/assets/f6730b78-c855-4a5d-ac66-9396b54c0096)
